@@ -1,0 +1,28 @@
+.flex-container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.mr-bt-5{
+    margin-bottom: 5px;
+}
+
+.flex-container.wrap {
+    flex-wrap: wrap;
+}
+.flex-container.jc-sp-bt {
+    justify-content: space-between;
+}
+.flex-container.jc-sp-ar {
+    justify-content: space-around;
+}
+.flex-container.jc-f-st {
+    justify-content: flex-start;
+}
+.flex-container.jc-f-end {
+    justify-content: flex-end;
+}
