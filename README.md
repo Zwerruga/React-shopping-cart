@@ -1,7 +1,6 @@
 # Welcome React js model e-commerce store!
 
-**SPA e-commece store.** Simulating the shopping cart with maintaining ***state in localStorage*** on reloads and transitions between pages.<a href="https://react-e-commerce-store-model.web.app/">Online demo link<a/> [Online demo link]('https://react-e-commerce-store-model.web.app/')
-
+**SPA e-commece store.** Simulating the shopping cart with maintaining ***state in localStorage*** on reloads and transitions between pages.<a href="https://react-e-commerce-store-model.web.app/">Online demo link<a/>
 ## General Info
  - React
  - React-router-dom
