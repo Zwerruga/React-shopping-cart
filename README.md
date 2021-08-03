@@ -6,6 +6,7 @@
  - React-router-dom
  - Redux, react-redux
  - Material-ui, material-ui-icons
+ - PropTypes
  
 ## Snapshots
 **Homepage**
