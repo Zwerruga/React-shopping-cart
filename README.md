@@ -22,5 +22,5 @@
 ![StorePage](https://i.ibb.co/LxgHnx1/screencapture-react-e-commerce-store-model-web-app-store-2021-08-01-15-43-05.png)
 
 # In Future
- - Examine the payment api to complete the model
- - Add a modal window to preview the product without going through the pages
+ - Examine the payment api to complete the model.
+ - Add a modal window to preview the product without going through the pages.
