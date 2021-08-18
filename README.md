@@ -1,4 +1,4 @@
-# Welcome React.js model e-commerce store!
+# Welcome to React.js model e-commerce store!
 
 **SPA e-commece store with CRUD.** Simulating the shopping cart with maintaining ***state in localStorage*** on reloads and transitions between pages. <a href="https://react-e-commerce-store-model.web.app"  target="_blank"/>Online demo link<a/>
 ## General Info
