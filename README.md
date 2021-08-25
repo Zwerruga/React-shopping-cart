@@ -8,8 +8,8 @@
  - Redux, react-redux
  - Material-ui, material-ui-icons
  - PropTypes
-`npm
-$ npm i && npm start
+
+`$ npm i && npm start
 `
 ## 🔥 Snapshots 👀
 **🏠 Homepage**
